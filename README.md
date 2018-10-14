@@ -1,6 +1,6 @@
 # clickeygame
 
-# clickeygame
+
 
 This project was bootstrapped with Create React App.
 
